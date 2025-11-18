@@ -1,4 +1,4 @@
-# IER-DML Dataset README  
+# Datasets for IER-DML paper
 ## Datasets Overview  
 This document provides an overview of the datasets designed for the IER-DML project. These datasets aim to address the challenges of incrementally resolving and disambiguating entity descriptions in dynamic environments. We have adopted and extended benchmark datasets provided by [DeepMatcher](https://github.com/anhaidgroup/deepmatcher), covering various domains such as products, citations, and restaurant names. Each dataset consists of entities originating from two associated relational tables, with each entity possessing multiple attributes. 
 ## Dataset Construction  
