@@ -1,0 +1,67 @@
+﻿id,name,addr,city,phone,type,class
+5,` bernard \ 's ',' 515 s. olive st. ',` los angeles ',213-612-1580,continental,539
+14,` chez melange ',' 1716 pch ',` redondo beach ',310-540-1222,eclectic,548
+16,` don antonio \ 's ',' 1136 westwood blvd. ',westwood,310-209-1422,italian,550
+21,` hollywood hills coffee shop ',' 6145 franklin ave. ',hollywood,213-467-7678,` coffee shops ',555
+22,` indo cafe ',' 10428 1/2 national blvd. ',la,310-815-1290,indonesian,556
+28,` johnnie \ 's pastrami ',' 4017 s. sepulveda blvd. ',` culver city ',310-397-6654,delis,562
+37,` langer \ 's ',' 704 s. alvarado st. ',la,213-483-8050,delis,571
+38,` local nochol ',' 30869 thousand oaks blvd. ',` westlake village ',818-706-7706,` health food ',572
+45,` mo better meatty meat ',' 7261 melrose ave. ',la,213-935-5280,hamburgers,579
+48,` ocean star ',' 145 n. atlantic blvd. ',` monterey park ',818-308-2128,seafood,582
+53,` poquito mas ',' 2635 w. olive ave. ',burbank,818-563-2252,mexican,587
+57,` ruby \ 's ( la ) ','45 s. fair oaks ave. ',pasadena,818-796-7829,diners,591
+62,` sweet lady jane ',' 8360 melrose ave. ',la,213-653-7145,desserts,596
+64,` tommy \ 's ',' 2575 beverly blvd. ',la,213-389-9060,hamburgers,598
+76,` ej \ 's luncheonette ',' 432 sixth ave. ',` new york city ',212-473-5555,diners,610
+84,` john \ 's pizzeria ','48 w. 65th st. ',` new york city ',212-721-7001,pizza,618
+89,` la grenouille ',' 3 e. 52nd st. ',` new york city ',212-752-1495,` french ( classic ) ',623
+92,` marnie \ 's noodle shop ',' 466 hudson st. ',` new york city ',212-741-3214,asian,626
+99,` oyster bar ',` lower level ',` new york city ',212-490-6650,seafood,633
+103,` peter luger steak house ',' 178 broadway ',brooklyn,718-387-7400,steakhouses,637
+106,` sarabeth \ 's ',' 1295 madison ave. ',` new york city ',212-410-7335,american,640
+107,` sparks steak house ',' 210 e. 46th st. ',` new york city ',212-687-4855,steakhouses,641
+112,` szechuan kitchen ',' 1460 first ave. ',` new york city ',212-249-4615,chinese,646
+120,yama,' 122 e. 17th st. ',` new york city ',212-475-0969,japanese,654
+128,` madame ching \ 's ',' 3300 las vegas blvd. s. ',` las vegas ',702-894-7111,asian,662
+131,` monte carlo ',' 3145 las vegas blvd. s. ',` las vegas ',702-733-4524,` french ( new ) ',665
+133,` morton \ 's of chicago ( las vegas ) ',' 3200 las vegas blvd. s. ',` las vegas ',702-893-0703,steakhouses,667
+135,` piero \ 's restaurant ',' 355 convention center dr. ',` las vegas ',702-369-2305,italian,669
+137,` steakhouse the ',' 128 e. fremont st. ',` las vegas ',702-382-1600,steakhouses,671
+143,` baker \ 's cajun cafe ',' 1134 euclid ave. ',atlanta,404-223-5039,cajun/creole,677
+152,` carey \ 's corner ',' 1215 powers ferry rd. ',marietta,770-933-0909,hamburgers,686
+154,chopstix,' 4279 roswell rd. ',atlanta,404-255-4868,chinese,688
+155,` deacon burton \ 's soulfood restaurant ',' 1029 edgewood ave. se ',atlanta,404-523-1929,southern/soul,689
+166,` kalo \ 's coffee house ',' 1248 clairmont rd. ',decatur,404-325-3733,coffeehouses,700
+176,` rainbow restaurant ',' 2118 n. decatur rd. ',decatur,404-633-3538,vegetarian,710
+179,soto,' 3330 piedmont rd. ',atlanta,404-233-2005,japanese,714
+182,` van gogh \ 's restaurant & bar ','70 w. crossville rd. ',roswell,770-993-1156,` american ( new ) ',717
+187,` cafe flore ',' 2298 market st. ',` san francisco ',415-621-8579,californian,722
+189,` campo santo ',' 240 columbus ave. ',` san francisco ',415-433-9623,mexican,724
+195,'em erald garden restaurant ',' 1550 california st. ',` san francisco ',415-673-1155,vietnamese,730
+202,` mario \ 's bohemian cigar store cafe ',' 2209 polk st. ',` san francisco ',415-776-8226,italian,737
+207,` roosevelt tamale parlor ',' 2817 24th st. ',` san francisco ',415-550-9213,mexican,742
+214,` trio cafe ',' 1870 fillmore st. ',` san francisco ',415-563-2248,american,749
+215,` tu lan ',' 8 sixth st. ',` san francisco ',415-626-0927,vietnamese,750
+218,` arnie morton \ 's of chicago ',' 435 s. la cienega blvd. ',` los angeles ',310-246-1501,steakhouses,0
+227,` grill the ',' 9560 dayton way ',` beverly hills ',310-276-0615,` american ( traditional ) ',9
+233,` palm the ( los angeles ) ',' 9001 santa monica blvd. ',` w. hollywood ',310-550-8811,steakhouses,15
+235,` philippe the original ',' 1001 n. alameda st. ',chinatown,213-628-3781,cafeterias,17
+244,` cafe lalo ',' 201 w. 83rd st. ',` new york city ',212-496-6031,coffeehouses,26
+261,` lespinasse ( new york city ) ',' 2 e. 55th st. ',` new york city ',212-339-6719,asian,43
+266,` mi cocina ','57 jane st. ',` new york city ',212-627-8273,mexican,48
+268,oceana,'55 e. 54th st. ',` new york city ',212-759-5941,seafood,50
+277,seryna,'11 e. 53rd st. ',` new york city ',212-980-9393,japanese,59
+278,` shun lee palace ',' 155 e. 55th st. ',` new york city ',212-371-8844,chinese,60
+279,` sign of the dove ',' 1110 third ave. ',` new york city ',212-861-8080,` american ( new ) ',61
+281,` tavern on the green ',` central park west ',` new york city ',212-873-3200,` american ( new ) ',63
+286,` coyote cafe ( las vegas ) ',' 3799 las vegas blvd. s. ',` las vegas ',702-891-7349,southwestern,68
+291,'till erman the ',' 2245 e. flamingo rd. ',` las vegas ',702-731-4036,steakhouses,73
+299,` georgia grille ',' 2290 peachtree rd. ',atlanta,404-352-3517,southwestern,81
+307,` ritz-carlton cafe ( buckhead ) ',' 3434 peachtree rd. ne ',atlanta,404-237-2700,` american ( new ) ',89
+308,` ritz-carlton dining room ( buckhead ) ',' 3434 peachtree rd. ne ',atlanta,404-237-2700,` american ( new ) ',90
+316,` campton place ',' 340 stockton st. ',` san francisco ',415-955-5555,` american ( new ) ',98
+319,fringale,' 570 fourth st. ',` san francisco ',415-543-0573,` french bistro ',101
+326,` plumpjack cafe ',' 3127 fillmore st. ',` san francisco ',415-563-4755,` american ( new ) ',108
+327,postrio,' 545 post st. ',` san francisco ',415-776-7825,californian,109
+329,` rose pistola ',' 532 columbus ave. ',` san francisco ',415-399-0499,italian,111

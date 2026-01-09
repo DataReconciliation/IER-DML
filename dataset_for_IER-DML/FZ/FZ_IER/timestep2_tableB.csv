@@ -1,0 +1,67 @@
+﻿id,name,addr,city,phone,type,class
+2,` baja fresh ',' 3345 kimber dr. ',` westlake village ',805-498-4049,mexican,536
+15,diaghilev,' 1020 n. san vicente blvd. ',` w. hollywood ',310-854-1111,russian,549
+24,jiraffe,' 502 santa monica blvd ',` santa monica ',310-917-6671,californian,558
+27,` john o \ ` groats ',' 10516 w. pico blvd. ',` west la ',310-204-0692,` coffee shops ',561
+34,` la cachette ',' 10506 little santa monica blvd. ',` century city ',310-470-4992,` french ( new ) ',568
+54,r-23,' 923 e. third st. ',` los angeles ',213-687-7178,japanese,588
+56,` rubin \ 's red hots ',' 15322 ventura blvd. ',encino,818-905-6515,` hot dogs ',590
+63,taiko,' 11677 san vicente blvd. ',brentwood,310-207-7782,` noodle shops ',597
+65,` uncle bill \ 's pancake house ',' 1305 highland ave. ',` manhattan beach ',310-545-5177,diners,599
+69,arcadia,'21 e. 62nd st. ',` new york city ',212-223-2900,` american ( new ) ',603
+71,` cafe con leche ',' 424 amsterdam ave. ',` new york city ',212-595-7000,cuban,605
+72,` corner bistro ',' 331 w. fourth st. ',` new york city ',212-242-9502,hamburgers,606
+75,darbar,'44 w. 56th st. ',` new york city ',212-432-7227,indian,609
+78,` elias corner ',' 24-02 31st st. ',queens,718-932-1510,greek,612
+96,moustache,' 405 atlantic ave. ',brooklyn,718-852-5555,` middle eastern ',630
+100,palm,' 837 second ave. ',` new york city ',212-687-2953,steakhouses,634
+111,` szechuan hunan cottage ',' 1588 york ave. ',` new york city ',212-535-5223,chinese,645
+118,` windows on the world ',' 107th fl . ',` new york city ',212-524-7000,eclectic,652
+122,` andre \ 's french restaurant ',' 401 s. 6th st. ',` las vegas ',702-385-5016,` french ( classic ) ',656
+123,` buccaneer bay club ',' 3300 las vegas blvd. s. ',` las vegas ',702-894-7350,continental,657
+124,` buzio \ 's in the rio ',' 3700 w. flamingo rd. ',` las vegas ',702-252-7697,seafood,658
+125,'em eril \ 's new orleans fish house ',' 3799 las vegas blvd. s. ',` las vegas ',702-891-7374,seafood,659
+126,` fiore rotisserie & grille ',' 3700 w. flamingo rd. ',` las vegas ',702-252-7702,italian,660
+127,` hugo \ 's cellar ',' 202 e. fremont st. ',` las vegas ',702-385-4011,continental,661
+129,` mayflower cuisinier ',' 4750 w. sahara ave. ',` las vegas ',702-870-8432,chinese,663
+140,` tre visi ',' 3799 las vegas blvd. s. ',` las vegas ',702-891-7331,italian,674
+142,` alon \ 's at the terrace ',' 659 peachtree st. ',atlanta,404-724-0444,sandwiches,676
+144,` barbecue kitchen ',' 1437 virginia ave. ',atlanta,404-766-9906,bbq,678
+148,` brookhaven cafe ',' 4274 peachtree rd. ',atlanta,404-231-5907,vegetarian,682
+153,chops,'70 w. paces ferry rd. ',atlanta,404-262-2675,steakhouses,687
+160,` harold \ 's barbecue ',' 171 mcdonough blvd. ',atlanta,404-627-9268,bbq,694
+164,` java jive ',' 790 ponce de leon ave. ',atlanta,404-876-6161,` coffee shops ',698
+165,` johnny rockets ( at ) ',' 2970 cobb pkwy . ',atlanta,770-955-6068,american,699
+174,` original pancake house ( at ) ',' 4330 peachtree rd. ',atlanta,404-237-4116,american,708
+177,riviera,' 519 e. paces ferry rd. ',atlanta,404-262-7112,mediterranean,712
+186,` bill \ 's place ',' 2315 clement st. ',` san francisco ',415-221-5262,hamburgers,721
+188,` caffe greco ',' 423 columbus ave. ',` san francisco ',415-397-6261,continental,723
+190,` cha cha cha \ 's ',' 1805 haight st. ',` san francisco ',415-386-5758,caribbean,725
+193,` dusit thai ',' 3221 mission st. ',` san francisco ',415-826-4639,thai,728
+194,ebisu,' 1283 ninth ave. ',` san francisco ',415-566-1770,japanese,729
+196,` eric \ 's chinese restaurant ',' 1500 church st. ',` san francisco ',415-282-0919,chinese,731
+204,` mel \ 's drive-in ',' 3355 geary st. ',` san francisco ',415-387-2244,hamburgers,739
+205,` mo \ 's burgers ',' 1322 grant st. ',` san francisco ',415-788-3779,hamburgers,740
+217,` wa-ha-ka oaxaca mexican grill ',' 2141 polk st. ',` san francisco ',415-775-1055,mexican,752
+222,campanile,' 624 s. la brea ave. ',` los angeles ',213-938-1447,californian,4
+225,` fenix at the argyle ',' 8358 sunset blvd. ',` w. hollywood ',213-848-6677,` french ( new ) ',7
+229,` l \ ` orangerie ',' 903 n. la cienega blvd. ',` w. hollywood ',310-652-9770,` french ( classic ) ',11
+234,patina,' 5955 melrose ave. ',` los angeles ',213-467-1108,californian,16
+236,` pinot bistro ',' 12969 ventura blvd. ',` studio city ',818-990-0500,` french bistro ',18
+248,chanterelle,' 2 harrison st. ',` new york city ',212-966-6960,` french ( new ) ',30
+249,daniel,'20 e. 76th st. ',` new york city ',212-288-0033,` french ( new ) ',31
+254,` gramercy tavern ','42 e. 20th st. ',` new york city ',212-477-0777,` american ( new ) ',36
+259,` le bernardin ',' 155 w. 51st st. ',` new york city ',212-489-1515,seafood,41
+264,march,' 405 e. 58th st. ',` new york city ',212-754-6272,` american ( new ) ',46
+271,picholine,'35 w. 64th st. ',` new york city ',212-724-8585,mediterranean,53
+282,` uncle nick \ 's ',' 747 ninth ave. ',` new york city ',212-245-7992,greek,64
+283,` union square cafe ','21 e. 16th st. ',` new york city ',212-243-4020,` american ( new ) ',65
+293,bacchanalia,' 3125 piedmont rd. ',atlanta,404-365-0410,californian,75
+306,` pano \ 's & paul \ 's ',' 1232 w. paces ferry rd. ',atlanta,404-261-3662,` american ( new ) ',88
+309,` ritz-carlton restaurant ',' 181 peachtree st. ',atlanta,404-659-0400,` french ( classic ) ',91
+311,` veni vidi vici ','41 14th st. ',atlanta,404-875-8424,italian,93
+315,` cafe claude ',' 7 claude ln . ',` san francisco ',415-392-3505,` french bistro ',97
+320,` hawthorne lane ','22 hawthorne st. ',` san francisco ',415-777-9779,californian,102
+322,` la folie ',' 2316 polk st. ',` san francisco ',415-776-5577,` french ( new ) ',104
+325,mifune,' 1737 post st. ',` san francisco ',415-922-0337,japanese,107
+330,` ritz-carlton cafe ( atlanta ) ',' 181 peachtree st. ',atlanta,404-659-0400,` american ( new ) ',711

@@ -1,0 +1,67 @@
+﻿id,name,addr,city,phone,type,class
+8,` brighton coffee shop ',' 9600 brighton way ',` beverly hills ',310-276-7732,` coffee shops ',542
+9,` bristol farms market cafe ',' 1570 rosecrans ave. s. ',pasadena,310-643-5229,californian,543
+10,` bruno \ 's ',' 3838 centinela ave. ',` mar vista ',310-397-5703,italian,544
+18,` falafel king ',' 1059 broxton ave. ',westwood,310-208-4444,` middle eastern ',552
+19,` feast from the east ',' 1949 westwood blvd. ',` west la ',310-475-0400,chinese,553
+29,` johnny reb \ 's southern smokehouse ',' 4663 long beach blvd. ',` long beach ',310-423-7327,southern/soul,563
+32,` kokomo cafe ',' 6333 w. third st. ',la,213-933-0773,american,566
+36,` la serenata de garibaldi ',' 1842 e. first ',` st. boyle hts . ',213-265-2887,mexican/tex-mex,570
+40,` mani \ 's bakery & espresso bar ',' 519 s. fairfax ave. ',la,213-938-8800,desserts,574
+42,` maxwell \ 's cafe ',' 13329 washington blvd. ',` marina del rey ',310-306-7829,american,576
+49,` original pantry bakery ',' 875 s. figueroa st. downtown ',la,213-627-6879,diners,583
+74,` cucina di pesce ','87 e. fourth st. ',` new york city ',212-260-6800,seafood,608
+80,` gray \ 's papaya ',' 2090 broadway ',` new york city ',212-799-0243,` hot dogs ',614
+85,` kelley & ping ',' 127 greene st. ',` new york city ',212-228-1212,pan-asian,619
+86,kiev,' 117 second ave. ',` new york city ',212-674-4040,ukrainian,620
+90,` lemongrass grill ',' 61a seventh ave. ',brooklyn,718-399-7100,thai,624
+93,menchanko-tei,'39 w. 55th st. ',` new york city ',212-247-1585,japanese,627
+94,` mitali east-west ',' 296 bleecker st. ',` new york city ',212-989-1367,indian,628
+98,` one if by land tibs ','17 barrow st. ',` new york city ',212-228-0822,continental,632
+104,` rose of india ',' 308 e. sixth st. ',` new york city ',212-533-5011,indian,638
+105,` sam \ 's noodle shop ',' 411 third ave. ',` new york city ',212-213-2288,chinese,639
+115,` thailand restaurant ',' 106 bayard st. ',` new york city ',212-349-3132,thai,649
+116,veselka,' 144 second ave. ',` new york city ',212-228-9682,ukrainian,650
+119,` wollensky \ 's grill ',' 205 e. 49th st. ',` new york city ',212-753-0444,steakhouses,653
+121,zarela,' 953 second ave. ',` new york city ',212-644-6740,mexican,655
+139,` sterling brunch ',' 3645 las vegas blvd. s. ',` las vegas ',702-739-4651,eclectic,673
+145,` bistro the ','56 e. andrews dr. nw ',atlanta,404-231-5733,` french bistro ',679
+146,` bobby & june \ 's kountry kitchen ',' 375 14th st. ',atlanta,404-876-3872,southern/soul,680
+151,` carey \ 's ',' 1021 cobb pkwy . se ',marietta,770-422-8042,hamburgers,685
+157,` flying biscuit the ',' 1655 mclendon ave. ',atlanta,404-687-8888,eclectic,691
+163,` indian delights ',' 3675 satellite blvd. ',duluth,100-813-8212,indian,697
+167,` la fonda latina ',' 4427 roswell rd. ',atlanta,404-303-8201,spanish,701
+169,majestic,' 1031 ponce de leon ave. ',atlanta,404-875-0276,diners,703
+172,nava,' 3060 peachtree rd. ',atlanta,404-240-1984,southwestern,706
+180,` thelma \ 's kitchen ',' 764 marietta st. nw ',atlanta,404-688-5855,cafeterias,715
+181,tortillas,' 774 ponce de leon ave. ne ',atlanta,404-892-0193,tex-mex,716
+197,` hamburger mary \ 's ',' 1582 folsom st. ',` san francisco ',415-626-1985,hamburgers,732
+198,` kelly \ 's on trinity ',' 333 bush st. ',` san francisco ',415-362-4454,californian,733
+199,` la cumbre ',' 515 valencia st. ',` san francisco ',415-863-8205,mexican,734
+203,` marnee thai ',' 2225 irving st. ',` san francisco ',415-665-9500,thai,738
+208,` sally \ 's cafe & bakery ',' 300 de haro st. ',` san francisco ',415-626-6006,american,743
+209,` san francisco bbq ',' 1328 18th st. ',` san francisco ',415-431-8956,thai,744
+213,` ti couz ',' 3108 16th st. ',` san francisco ',415-252-7373,french,748
+216,` vicolo pizzeria ',' 201 ivy st. ',` san francisco ',415-863-2382,pizza,751
+219,` art \ 's deli ',' 12224 ventura blvd. ',` studio city ',818-762-1221,delis,1
+228,katsu,' 1972 hillhurst ave. ',` los feliz ',213-665-1891,japanese,10
+230,` le chardonnay ( los angeles ) ',' 8284 melrose ave. ',` los angeles ',213-655-8880,` french bistro ',12
+231,` locanda veneta ',' 8638 w. third st. ',` los angeles ',310-274-1893,italian,13
+232,matsuhisa,' 129 n. la cienega blvd. ',` beverly hills ',310-659-9639,seafood,14
+245,` cafe des artistes ',' 1 w. 67th st. ',` new york city ',212-877-3500,` french ( classic ) ',27
+246,` carmine \ 's ',' 2450 broadway ',` new york city ',212-362-2200,italian,28
+265,` mesa grill ',' 102 fifth ave. ',` new york city ',212-807-7400,southwestern,47
+267,montrachet,' 239 w. broadway ',` new york city ',212-219-2777,` french bistro ',49
+269,` park avenue cafe ( new york city ) ',' 100 e. 63rd st. ',` new york city ',212-644-1900,` american ( new ) ',51
+270,petrossian,' 182 w. 58th st. ',` new york city ',212-245-2214,russian,52
+272,pisces,'95 ave. a ',` new york city ',212-260-6660,seafood,54
+274,` river cafe ',' 1 water st. ',brooklyn,718-522-5200,` american ( new ) ',56
+275,` san domenico ',' 240 central park s. ',` new york city ',212-265-5959,italian,57
+288,` palace court ',' 3570 las vegas blvd. s. ',` las vegas ',702-731-7110,` french ( new ) ',70
+292,abruzzi,' 2355 peachtree rd. ne ',atlanta,404-261-8186,italian,74
+294,` bone \ 's restaurant ',' 3130 piedmont rd. ne ',atlanta,404-237-2663,steakhouses,76
+297,` ciboulette restaurant ',' 1529 piedmont ave. ',atlanta,404-874-7600,` french ( new ) ',79
+298,delectables,' 1 margaret mitchell sq. ',atlanta,404-681-2909,cafeterias,80
+304,` mary mac \ 's tea room ',' 224 ponce de leon ave. ',atlanta,404-876-1800,southern/soul,86
+312,` alain rondelli ',' 126 clement st. ',` san francisco ',415-387-0408,` french ( new ) ',94
+328,` ritz-carlton dining room ( san francisco ) ',' 600 stockton st. ',` san francisco ',415-296-7465,` french ( new ) ',110

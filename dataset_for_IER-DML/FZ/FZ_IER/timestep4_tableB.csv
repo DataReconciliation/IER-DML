@@ -1,0 +1,67 @@
+﻿id,name,addr,city,phone,type,class
+0,` apple pan the ',' 10801 w. pico blvd. ',` west la ',310-475-3585,american,534
+3,` belvedere the ',' 9882 little santa monica blvd. ',` beverly hills ',310-788-2306,` pacific new wave ',537
+4,` benita \ 's frites ',' 1433 third st. promenade ',` santa monica ',310-458-2889,` fast food ',538
+6,` bistro 45 ','45 s. mentor ave. ',pasadena,818-795-2478,californian,540
+12,` cafe blanc ',' 9777 little santa monica blvd. ',` beverly hills ',310-888-0108,` pacific new wave ',546
+20,` gumbo pot the ',' 6333 w. third st. ',la,213-933-0358,cajun/creole,554
+31,` killer shrimp ',' 4000 colfax ave. ',` studio city ',818-508-1570,seafood,565
+35,` la salsa ( la ) ',' 22800 pch ',malibu,310-456-6299,mexican,569
+39,` main course the ',' 10509 w. pico blvd. ',` rancho park ',310-475-7564,american,573
+43,` michael \ 's ( los angeles ) ',' 1147 third st. ',` santa monica ',310-451-0843,californian,577
+47,` ocean park cafe ',' 3117 ocean park blvd. ',` santa monica ',310-452-5728,american,581
+55,` rae \ 's ',' 2901 pico blvd. ',` santa monica ',310-828-7937,diners,589
+58,` russell \ 's burgers ',' 1198 pch ',` seal beach ',310-596-9556,hamburgers,592
+61,` sushi nozawa ',' 11288 ventura blvd. ',` studio city ',818-508-7017,japanese,595
+66,` water grill ',' 544 s. grand ave. ',` los angeles ',213-891-0900,seafood,600
+73,` cucina della fontana ',' 368 bleecker st. ',` new york city ',212-242-0636,italian,607
+77,` edison cafe ',' 228 w. 47th st. ',` new york city ',212-840-5000,diners,611
+83,` joe \ 's shanghai ',' 9 pell st. ',queens,718-539-3838,chinese,617
+87,` kuruma zushi ',' 2nd fl . ',` new york city ',212-317-2802,japanese,621
+101,` palm too ',' 840 second ave. ',` new york city ',212-697-5198,steakhouses,635
+102,` patsy \ 's pizza ','19 old fulton st. ',brooklyn,718-858-4300,pizza,636
+108,` stick to your ribs ',' 5-16 51st ave. ',queens,718-937-3030,bbq,642
+110,` sylvia \ 's ',' 328 lenox ave. ',` new york city ',212-996-0660,southern/soul,644
+113,` teresa \ 's ','80 montague st. ',queens,718-520-2910,polish,647
+117,` westside cottage ',' 689 ninth ave. ',` new york city ',212-245-0800,chinese,651
+132,moongate,' 3400 las vegas blvd. s. ',` las vegas ',702-791-7352,chinese,666
+136,` spago ( las vegas ) ',' 3500 las vegas blvd. s. ',` las vegas ',702-369-6300,californian,670
+138,` stefano \ 's ',' 129 fremont st. ',` las vegas ',702-385-7111,italian,672
+147,` bradshaw \ 's restaurant ',' 2911 s. pharr court ',atlanta,404-261-7015,southern/soul,681
+150,canoe,' 4199 paces ferry rd. ',atlanta,770-432-2663,` american ( new ) ',684
+156,eats,' 600 ponce de leon ave. ',atlanta,404-888-9149,italian,690
+158,frijoleros,' 1031 peachtree st. ne ',atlanta,404-892-8226,tex-mex,692
+161,` havana sandwich shop ',' 2905 buford hwy . ',atlanta,404-636-4094,cuban,695
+173,` nuevo laredo cantina ',' 1495 chattahoochee ave. nw ',atlanta,404-352-9009,mexican,707
+183,veggieland,' 220 sandy springs circle ',atlanta,404-231-3111,vegetarian,718
+184,` white house restaurant ',' 3172 peachtree rd. ne ',atlanta,404-237-7601,diners,719
+192,` dottie \ 's true blue cafe ',' 522 jones st. ',` san francisco ',415-885-2767,diners,727
+200,` la mediterranee ',' 288 noe st. ',` san francisco ',415-431-7210,mediterranean,735
+201,` la taqueria ',' 2889 mission st. ',` san francisco ',415-285-7117,mexican,736
+206,` phnom penh cambodian restaurant ',' 631 larkin st. ',` san francisco ',415-775-5979,cambodian,741
+211,` swan oyster depot ',' 1517 polk st. ',` san francisco ',415-673-1101,seafood,746
+221,` cafe bizou ',' 14016 ventura blvd. ',` sherman oaks ',818-788-3536,` french bistro ',3
+224,citrus,' 6703 melrose ave. ',` los angeles ',213-857-0034,californian,6
+238,` spago ( los angeles ) ',' 8795 sunset blvd. ',` w. hollywood ',310-652-4025,californian,20
+239,valentino,' 3115 pico blvd. ',` santa monica ',310-829-4313,italian,21
+240,` yujean kang \ 's ','67 n. raymond ave. ',pasadena,818-585-0855,chinese,22
+241,'21 club ','21 w. 52nd st. ',` new york city ',212-582-7200,` american ( new ) ',23
+243,aureole,'34 e. 61st st. ',` new york city ',212-319-1660,` american ( new ) ',25
+251,felidia,' 243 e. 58th st. ',` new york city ',212-758-1479,italian,33
+252,` four seasons ','99 e. 52nd st. ',` new york city ',212-754-9494,` american ( new ) ',34
+253,` gotham bar & grill ','12 e. 12th st. ',` new york city ',212-620-4020,` american ( new ) ',35
+255,` island spice ',' 402 w. 44th st. ',` new york city ',212-765-1737,caribbean,37
+256,` jo jo ',' 160 e. 64th st. ',` new york city ',212-223-5656,` french bistro ',38
+258,` la cote basque ','60 w. 55th st. ',` new york city ',212-688-6525,` french ( classic ) ',40
+276,` second avenue deli ',' 156 second ave. ',` new york city ',212-677-0606,delis,58
+280,` smith & wollensky ',' 797 third ave. ',` new york city ',212-753-1530,steakhouses,62
+285,` chin \ 's ',' 3200 las vegas blvd. s. ',` las vegas ',702-733-8899,chinese,67
+296,` buckhead diner ',' 3073 piedmont rd. ',atlanta,404-262-3336,` american ( new ) ',78
+300,` hedgerose heights inn the ',' 490 e. paces ferry rd. ne ',atlanta,404-233-7673,continental,82
+301,` heera of india ',' 595 piedmont ave. ',atlanta,404-876-4408,indian,83
+310,toulouse,' 293-b peachtree rd. ',atlanta,404-351-9533,` french ( new ) ',92
+317,` chez michel ',' 804 north point st. ',` san francisco ',415-775-7036,californian,99
+318,` fleur de lys ',' 777 sutter st. ',` san francisco ',415-673-7779,` french ( new ) ',100
+321,` khan toke thai house ',' 5937 geary blvd. ',` san francisco ',415-668-6654,thai,103
+323,` lulu restaurant-bis-cafe ',' 816 folsom st. ',` san francisco ',415-495-5775,mediterranean,105
+324,` masa \ 's ',' 648 bush st. ',` san francisco ',415-989-7154,` french ( new ) ',106
