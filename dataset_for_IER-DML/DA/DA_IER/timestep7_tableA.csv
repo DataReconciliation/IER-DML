@@ -1,0 +1,328 @@
+﻿id,title,authors,venue,year
+3,cost-based selection of path expression processing algorithms in object-oriented databases,"zhao-hui tang , georges gardarin , jean-robert gruser",vldb,1996
+14,approximate query mapping : accounting for translation closeness,"hector garcia-molina , kevin chen-chuan chang",vldb j.,2001
+19,lineage tracing for general data warehouse transformations,"yingwei cui , jennifer widom",vldb,2001
+38,"temporal coalescing with now , granularity , and incomplete information",curtis e. dyreson,sigmod conference,2003
+45,fact : a learning based web query processing system,"zengping tian , hongjun lu , yanlei diao , songting chen",sigmod conference,2000
+55,data modelling in the large,martin bertram,sigmod record,1994
+56,updating xml,"daniel s. weld , zachary g. ives , igor tatarinov , alon y. halevy",sigmod conference,2001
+70,expiring data in a warehouse,"wilburt labio , jun yang , hector garcia-molina",vldb,1998
+71,opportunities in information management and assurance,xiaolei qian,sigmod record,1997
+76,algebraic query optimisation for database programming languages,"carol small , alexandra poulovassilis",vldb j.,1996
+87,a scalable algorithm for answering queries using views,"rachel pottinger , alon y. levy",vldb,2000
+94,space optimization in deductive databases,"s. sudarshan , divesh srivastava , raghu ramakrishnan , jeffrey f. naughton",acm trans . database syst .,1995
+98,new programs at darpa and nsf,xiaolei qian,sigmod record,1996
+116,viator - a tool family for graphical networking and data view creation,"katja tham , axel kilian , dieter merkel , peter rieger , stephan heymann , gunnar wegner , johann christoph freytag",vldb,2002
+118,the persistent cache : improving oid indexing in temporal object-oriented database systems,kjetil nørvåg,vldb,1999
+120,semantic heterogeneity resolution in federated databases by metadata implantation and stepwise evolution,"dennis mcleod , goksel aslan",vldb j.,1999
+122,sql and management of external data,"jan-eike michels , jim melton , krishna g. kulkarni , peter m. schwarz , kathy zeidenstein , vanja josifovski",sigmod record,2001
+133,java and relational databases : sqlj ( tutorial ),"johannes klein , richard pledereder , gray clossman , brian becker , phil shaw , mark hapner",sigmod conference,1998
+139,things every update replication customer should know,rob golding,sigmod conference,1995
+142,catching the boat with strudel : experiences with a web-site management system,"jaewoo kang , dan suciu , alon y. levy , daniela florescu , mary f. fernandez",sigmod conference,1998
+147,an algebraic approach to static analysis of active database rules,"jennifer widom , elena baralis",acm trans . database syst .,2000
+148,os support for vldbs : unix enhancements for the teradata data base,"sorana rabinovici , john catozzi",vldb,1995
+150,thinksheet : a tool for tailoring complex documents,"dao-i lin , peter piatko , roman yangarber , dennis shasha",sigmod conference,1996
+157,starts : stanford proposal for internet meta-searching ( experience paper ),"hector garcia-molina , luis gravano , kevin chen-chuan chang , andreas paepcke",sigmod conference,1997
+162,temporal database system implementations,michael h. böhlen,sigmod record,1995
+169,"semi-automatic , self-adaptive control of garbage collection rates in object databases","artur klauser , alexander l. wolf , benjamin g. zorn , jonathan e. cook",sigmod conference,1996
+173,"in reply to domains , relations and religious wars",hugh darwen,sigmod record,1996
+176,fine-grained sharing in a page server oodbms,"michael j. carey , markos zaharioudakis , michael j. franklin",sigmod conference,1994
+178,introduction to the career forum column,alexandros labrinidis,sigmod record,2001
+179,image mining in iris : integrated retinal information system,"kheng guan goh , wynne hsu , mong-li lee",sigmod conference,2000
+194,algorithms for deferred view maintenance,"leonid libkin , inderpal singh mumick , latha s. colby , howard trickey , timothy griffin",sigmod conference,1996
+201,editor 's notes,jennifer widom,sigmod record,1996
+206,metu interoperable database system,"sema mancuhan , ismailcem budak arpinar , fatma ozcan , pinar koksal , asuman dogac , gökhan özhan , cevdet dengi , ugur halici , cem evrendilek , sena nural , ebru kilic",sigmod conference,1996
+218,a one-pass algorithm for accurately estimating quantiles for disk-resident data,"khaled alsabti , vineet singh , sanjay ranka",vldb,1997
+221,repository system engineering,philip a. bernstein,sigmod conference,1996
+245,an experimental system for object-based sharing in federated databases,"shahram ghandeharizadeh , doug fang",vldb j.,1996
+247,schema-driven customization of web services,"bernd amann , serge abiteboul , jérôme baumgarten , omar benjelloun , tova milo , frederic dang ngoc",vldb,2003
+254,combining fuzzy information : an overview,ronald fagin,sigmod record,2002
+272,the tv-tree : an index structure for high-dimensional data,"king-ip lin , h. v. jagadish , christos faloutsos",vldb j.,1994
+274,report on the 17th brazilian symposium on database systems ( sbbd 2002 ),"nina edelweiss , ana carolina salgado",sigmod record,2003
+276,too much middleware,michael stonebraker,sigmod record,2002
+279,approximate query translation across heterogeneous information sources,"hector garcia-molina , kevin chen-chuan chang",vldb,2000
+292,a monte carlo algorithm for fast projective clustering,"michael jones , pankaj k. agarwal , t. m. murali , cecilia magdalena procopiuc",sigmod conference,2002
+303,"tcp-d - the challenges , issues and results",ramesh bhashyam,sigmod record,1996
+304,reminiscences on influential papers,"per-åke larson , luis gravano , stefano ceri , leonid libkin , tova milo , kenneth a. ross",sigmod record,2001
+338,chair 's message,richard t. snodgrass,sigmod record,1997
+351,architectures for internal web services deployment,oded shmueli,vldb,2001
+360,on the minimization of xpath queries,"elio masciari , sergio flesca , filippo furfaro",vldb,2003
+364,optimizing database architecture for the new bottleneck : memory access,"peter a. boncz , stefan manegold , martin l. kersten",vldb j.,2000
+372,database research at the university of oklahoma,"sirirut vanichayobon , leonard brown , ravi a. dirckze , sylvain guinepain , carlos sánchez , le gruenwald , brian summers",sigmod record,1999
+422,distributed search over the hidden web : hierarchical database sampling and selection,"luis gravano , panagiotis g. ipeirotis",vldb,2002
+424,beyond market baskets : generalizing association rules to correlations,"rajeev motwani , sergey brin , craig silverstein",sigmod conference,1997
+426,memory-contention responsive hash joins,"goetz graefe , diane l. davison",vldb,1994
+428,securing xml documents : the author-x project demonstration,"elisa bertino , elena ferrari , silvana castano",sigmod conference,2001
+440,"world wide database - integrating the web , corba , and databases","kevin smith , athman bouguettaya , mourad ouzzani , james beard , lily hendra , boualem benatallah",sigmod conference,1999
+443,change detection in hierarchically structured information,"jennifer widom , sudarshan s. chawathe , hector garcia-molina , anand rajaraman",sigmod conference,1996
+458,a bayesian decision model for cost optimal record matching,"george v. moustakides , vassilios s. verykios , mohamed g. elfeky",vldb j.,2003
+463,xml-based information mediation with mix,"yannis papakonstantinou , richard marciano , chaitanya k. baru , pavel velikhov , vincent chu , amarnath gupta , bertram ludäscher",sigmod conference,1999
+465,ibm 's db2 universal database demonstrations at vldb '98,"k. bernhard schiefer , karen brannon , guy m. lohman , gene fuh , jim kleewein",vldb,1998
+475,report on the edbt '02 panel on scientific data integration,"carole a. goble , omar boucelma , silvana castano , vanja josifovski , zoé lacroix , bertram ludäscher",sigmod record,2002
+483,starting ( and sometimes ending ) a database company,jack a. orenstein,vldb,1998
+485,specification and implementation of exceptions in workflow management systems,"stefano paraboschi , stefano ceri , fabio casati , giuseppe pozzi",acm trans . database syst .,1999
+486,new standard for stored procedures in sql,andrew eisenberg,sigmod record,1996
+503,are web services the next revolution in e-commerce ? ( panel ),"umeshwar dayal , gerhard weikum , rakesh agrawal , johannes klein , shalom tsur , serge abiteboul",vldb,2001
+507,groupwise processing of relational queries,"kenneth a. ross , damianos chatziantoniou",vldb,1997
+512,the mentor workbench for enterprise-wide workflow management,"jeanine weißenfels , dirk wodtke , angelika kotz dittrich , gerhard weikum , peter muth",sigmod conference,1997
+529,towards knowledge-based digital libraries,"manfred a. jeusfeld , ling feng , jeroen hoppenbrouwers",sigmod record,2001
+535,qualitative representation of spatial knowledge in two-dimensional space,"dimitris papadias , timos k. sellis",vldb j.,1994
+541,java support for data-intensive systems : experiences building the telegraph dataflow system,"michael j. franklin , samuel madden , joseph m. hellerstein , mehul a. shah",sigmod record,2001
+548,model-based information integration in a neuroscience mediator system,"bertram ludäscher , amarnath gupta , maryann e. martone",vldb,2000
+573,tavant system architecture for sell-side channel management,"subbu n. subramanian , srinivasa narayanan",vldb,2001
+607,building database-driven electronic catalogs,sherif danish,sigmod record,1998
+622,a workflow-based electronic marketplace on the web,"ibrahim cingil , nazife dimililer , nesime tatbul , ilker durusoy , asuman dogac , pinar koksal , sena nural arpinar",sigmod record,1998
+626,gigascope : high performance network monitoring with an sql interface,"yuan gao , theodore johnson , charles d. cranor , vladislav shkapenyuk , oliver spatscheck",sigmod conference,2002
+627,the merge/purge problem for large databases,"salvatore j. stolfo , mauricio a. hernández",sigmod conference,1995
+639,an efficient method for checking object-oriented database schema correctness,"michele missikoff , anna formica , hans dietmar gröger",acm trans . database syst .,1998
+645,continuous nearest neighbor search,"dimitris papadias , yufei tao , qiongmao shen",vldb,2002
+648,homer : a model-based case tool for data-intensive web sites,"paolo atzeni , paolo merialdo , marco pecorone , marco magnante , giansalvatore mecca",sigmod conference,2000
+649,performance of data-parallel spatial operations,"hanan samet , erik g. hoel",vldb,1994
+656,extracting schema from semistructured data,"serge abiteboul , rajeev motwani , svetlozar nestorov",sigmod conference,1998
+681,spatial queries in dynamic environments,"yufei tao , dimitris papadias",acm trans . database syst .,2003
+732,bridging heterogeneity : research and practice of database middleware technology,"günter sauter , fernando de ferreira rezende",vldb,1998
+747,vqbd : exploring semistructured data,"jihwang yeo , sudarshan s. chawathe , thomas baby",sigmod conference,2001
+748,the grid : an application of the semantic web,"carole a. goble , david de roure",sigmod record,2002
+750,"i3 : intelligent , interactive investigaton of olap data cubes","sunita sarawagi , gayatri sathe",sigmod conference,2000
+765,eos : an extensible object store,"euthimios panagos , alexandros biliris",sigmod conference,1994
+766,schemasql - a language for interoperability in relational multi-database systems,"fereidoon sadri , laks v. s. lakshmanan , iyer n. subramanian",vldb,1996
+768,optimal clip ordering for multi-clip queries,"raymond t. ng , paul shum",vldb j.,1998
+773,query by diagram : a graphical environment for querying databases,"giuseppe santucci , tiziana catarci",sigmod conference,1994
+775,guest editor 's introduction,asuman dogac,sigmod record,2002
+776,xrank : ranked keyword search over xml documents,"feng shao , lin guo , chavdar botev , jayavel shanmugasundaram",sigmod conference,2003
+783,an effective deductive object-oriented database through language integration,"m. howard williams , norman w. paton , andrew dinn , maria l. barja , alvaro a. a. fernandes",vldb,1994
+784,cache conscious indexing for decision-support in main memory,"kenneth a. ross , jun rao",vldb,1999
+788,high-concurrency locking in r-trees,"douglas banks , marcel kornacker",vldb,1995
+790,spatial and temporal content-based access to hypervideo databases,"ahmed k. elmagarmid , haitao jiang",vldb j.,1998
+803,formal semantics and analysis of object queries,gavin m. bierman,sigmod conference,2003
+819,a dependability benchmark for oltp application environments,"henrique madeira , marco vieira",vldb,2003
+821,towards on-line analytical mining in large databases,jiawei han,sigmod record,1998
+833,combi-operator : database support for data mining applications,"wolfgang lehner , alexander hinneburg , dirk habich",vldb,2003
+836,parallel query scheduling and optimization with time - and space-shared resources,"yannis e. ioannidis , minos n. garofalakis",vldb,1997
+839,secure buffering in firm real-time database systems,"binto george , jayant r. haritsa",vldb,1998
+840,workflow history management,"pinar koksal , sena nural arpinar , asuman dogac",sigmod record,1998
+858,supporting state-wide immunisation tracking using multi-paradigm workflow technology,"devashish worah , souvik das , ivan shevchenko , amit p. sheth , john a. miller , chenye lin , devanand palaniswami , krys kochut , john lynch",vldb,1996
+862,shrinking the warehouse update window,"hector garcia-molina , ramana yerneni , wilburt labio",sigmod conference,1999
+870,generating efficient plans for queries using views,"chen li , jeffrey d. ullman , foto n. afrati",sigmod conference,2001
+875,editor 's notes and erratum,arie segev,sigmod record,1994
+884,"biodiversity informatics : the challenge of rapid development , large databases , and complex data ( keynote )","james l. edwards , meridith a. lane , ebbe nielsen",vldb,2000
+887,socqet : semantic olap with compressed cube and summarization,"yan zhao , laks v. s. lakshmanan , jian pei",sigmod conference,2003
+892,"calibrating the query optimizer cost model of iro-db , an object-oriented federated database system","zhao-hui tang , fei sha , georges gardarin",vldb,1996
+904,web services ( industrial session ),felipe cabrera,vldb,2003
+910,providing database migration tools - a practicioner 's approach,andreas meier,vldb,1995
+915,design and management of data warehouses : report on the dmdw '99 workshop,"martin staudt , yannis vassiliou , manfred a. jeusfeld , stella gatziu",sigmod record,1999
+916,information sharing across private databases,"ramakrishnan srikant , rakesh agrawal , alexandre v. evfimievski",sigmod conference,2003
+933,outerjoin simplification and reordering for query optimization,"césar a. galindo-legaria , arnon rosenthal",acm trans . database syst .,1997
+935,integrating symbolic images into a multimedia database system using classification and abstraction approaches,"hanan samet , aya soffer",vldb j.,1998
+940,a taxonomy of correctness criteria in database applications,"krithi ramamritham , panos k. chrysanthis",vldb j.,1996
+946,information integration and xml in ibm 's db2,patricia g. selinger,vldb,2002
+955,fundamental techniques for order optimization,"eugene j. shekita , david e. simmen , timothy malkemus",sigmod conference,1996
+965,an extended entity-relationship model for geographic applications,"nectaria tryfona , thanasis hadzilacos",sigmod record,1997
+966,optimizing result prefetching in web search engines with segmented indices,"shlomo moran , ronny lempel",vldb,2002
+984,an almost-serial protocol for transaction execution in main-memory database systems,"stephen blott , henry f. korth",vldb,2002
+986,interviso : dealing with the complexity of federated database access,"edward maros , darrel j. van buer , marjorie templeton , herbert henley",vldb j.,1995
+1002,neurorule : a connectionist approach to data mining,"hongjun lu , huan liu , rudy setiono",vldb,1995
+1008,"gangam - a solution to support multiple data models , their mappings and maintenance","elke a. rundensteiner , gail mitchell , wang-chien lee , harumi a. kuno , xin zhang , hong su , kajal t. claypool",sigmod conference,2001
+1037,efficient integration and aggregation of historical information,"amr el abbadi , mirek riedewald , divyakant agrawal",sigmod conference,2002
+1044,communication efficient distributed mining of association rules,"ran wolff , assaf schuster",sigmod conference,2001
+1059,daytona and the fourth-generation language cymbal,rick greer,sigmod conference,1999
+1067,general match : a subsequence matching method in time-series databases based on generalized windows,"kyu-young whang , yang-sae moon , wook-shin han",sigmod conference,2002
+1071,incremental distance join algorithms for spatial databases,"gísli r. hjaltason , hanan samet",sigmod conference,1998
+1078,joining ranked inputs in practice,"walid g. aref , ihab f. ilyas , ahmed k. elmagarmid",vldb,2002
+1083,chair 's message,m. tamer özsu,sigmod record,2002
+1085,agora : living with xml and relational,"daniela florescu , donald kossmann , dan olteanu , ioana manolescu , florian xhumari",vldb,2000
+1108,semantics for update rule programs and implementations in a relational database management system,"louiqa raschid , jorge lobo",acm trans . database syst .,1996
+1116,integrating a structured-text retrieval system with an object-oriented database system,"jurgen annevelink , tak w. yan",vldb,1994
+1123,a probabilistic relational model and algebra,"debabrata dey , sumit sarkar",acm trans . database syst .,1996
+1126,query processing techniques for arrays,"kenneth salem , arunprasad p. marathe",sigmod conference,1999
+1133,extracting entity profiles from semistructured information spaces,"robert a. nado , scott b. huffman",sigmod record,1997
+1134,data quality and data cleaning : an overview,"theodore johnson , tamraparni dasu",sigmod conference,2003
+1139,database research at columbia university,"kenneth a. ross , gail e. kaiser , luis gravano , salvatore j. stolfo , shih-fu chang",sigmod record,1998
+1145,leveraging the information asset,janet perna,sigmod conference,1995
+1148,the bt-tree : a branched and temporal access method,"david b. lomet , betty salzberg , linan jiang , manuel barrena garcía",vldb,2000
+1160,reminiscences on influential papers,"z. meral özsoyoglu , philip s. yu , nick roussopoulos , krithi ramamritham , alberto o. mendelzon , richard t. snodgrass , laura m. haas , jennifer widom , jan paredaens",sigmod record,1998
+1161,lh * rs : a high-availability scalable distributed data structure using reed solomon codes,"thomas j. e. schwarz , witold litwin",sigmod conference,2000
+1164,querying atsql databases with temporal logic,"jan chomicki , david toman , michael h. böhlen",acm trans . database syst .,2001
+1169,query processing and optimization in oracle rdb,"gennady antoshenkov , mohamed ziauddin",vldb j.,1996
+1179,mapping extended entity relationship model to object modeling technique,joseph fong,sigmod record,1995
+1185,"lh * - a scalable , distributed data structure","donovan a. schneider , marie-anne neimat , witold litwin",acm trans . database syst .,1996
+1190,reasoning about spatial relationships in picture retrieval systems,"clement t. yu , a. prasad sistla , r. haddad",vldb,1994
+1215,online association rule mining,christian hidber,sigmod conference,1999
+1219,data mining in the bioinformatics domain,shalom tsur,vldb,2000
+1220,simultaneous optimization and evaluation of multiple dimensional queries,"amit shukla , jeffrey f. naughton , yihong zhao , prasad deshpande",sigmod conference,1998
+1221,coss : the common object services specifications,bruce e. martin,sigmod conference,1994
+1231,i/o reference behavior of production database workloads and the tpc benchmarks - an analysis at the logical level,"windsor w. hsu , alan jay smith , honesty c. young",acm trans . database syst .,2001
+1245,modelling and querying video data,"rune hjelsvold , roger midtstraum",vldb,1994
+1251,mocha : a self-extensible database middleware system for distributed data sources,"manuel rodriguez-martinez , nick roussopoulos",sigmod conference,2000
+1256,evolution of groupware for business applications : a database perspective on lotus domino/notes,"c. mohan , s. watts , ron barber , amit somani , markos zaharioudakis",vldb,2000
+1262,bhunt : automatic discovery of fuzzy algebraic constraints in relational data,"peter j. haas , paul brown",vldb,2003
+1266,in cyber space no one can hear you scream,chris pound,vldb,1999
+1268,semantic access : semantic interface for querying databases,"naphtali rishe , rukshan athauda , artyom shaposhnikov , jun yuan , dmitry vasilevsky , xiaoling lu , xiaobin ma , shu-ching chen , alexander vaschillo",vldb,2000
+1276,management of data and services in the environmental information system ( uis ) of baden-württemberg,"wolf-fritz riekert , roland mayer-föll , gerlinde wiest",sigmod record,1997
+1280,wrapper generation for semi-structured internet sources,"craig a. knoblock , naveen ashish",sigmod record,1997
+1288,merging models based on given correspondences,"philip a. bernstein , rachel pottinger",vldb,2003
+1289,"review of spatial databases with application to gis by philippe rigaux , michel scholl , and agnes voisard . morgan kaufmann 2002",nancy wiegand,sigmod record,2003
+1293,finding hierarchical heavy hitters in data streams,"graham cormode , flip korn , s. muthukrishnan , divesh srivastava",vldb,2003
+1296,data modelling versus ontology engineering,"mustafa jarrar , peter spyns , robert meersman",sigmod record,2002
+1321,xquery : a query language for xml,donald d. chamberlin,sigmod conference,2003
+1339,legodb : customizing relational storage for xml documents,"prasan roy , philip bohannon , jayant r. haritsa , jérôme siméon , maya ramanath , juliana freire",vldb,2002
+1340,an xml query engine for network-bound data,"daniel s. weld , alon y. halevy , zachary g. ives",vldb j.,2002
+1342,application servers : born-again tp monitors for the web ? ( panel abstract ),c. mohan,sigmod conference,2001
+1353,chorochronos : a research network for spatiotemporal database systems,"enrico nardelli , timos k. sellis , andrew u. frank , stéphane grumbach , hans-jörg schek , manolis koubarakis , michel scholl , ralf hartmut güting , barbara pernici , christian s. jensen , nikos a. lorentzos , babis theodoulidis , yannis manolopoulos , peter widmayer",sigmod record,1999
+1354,qxtract : a building block for efficient information extraction from plain-text databases,"luis gravano , eugene agichtein",sigmod conference,2003
+1369,call for book reviews,karl aberer,sigmod record,2003
+1376,a framework for information visualisation,"peter j. barclay , kenneth j. mitchell , jessie b. kennedy",sigmod record,1996
+1381,analysis of existing databases at the logical level : the dba companion project,"fabien de marchi , jean-marc petit , farouk toumani , stéphane lopes",sigmod record,2003
+1390,aqua : a fast decision support systems using approximate query answers,"swarup acharya , phillip b. gibbons , viswanath poosala",vldb,1999
+1420,supply chain infrastructures : system integration and information sharing,"michael o. ball , louiqa raschid , meng ma , zhengying zhao",sigmod record,2002
+1432,political winds change direction again,xiaolei qian,sigmod record,1995
+1441,oracle media server : providing consumer based interactive access to multimedia data,"mark porter , andrew laursen , jeffrey olkin",sigmod conference,1994
+1448,constraints for semi-structured data and xml,"wenfei fan , peter buneman , scott weinstein , jérôme siméon",sigmod record,2001
+1462,filtering algorithms and implementation for very fast publish/subscribe,"kenneth a. ross , françoise fabret , françois llirbat , joão pereira , hans-arno jacobsen , dennis shasha",sigmod conference,2001
+1464,xml schema,"jim melton , charles e. campbell , andrew eisenberg",sigmod record,2003
+1483,active xml : peer-to-peer data and web services integration,"tova milo , roger weber , ioana manolescu , omar benjelloun , serge abiteboul",vldb,2002
+1505,distributed deviation detection in sensor networks,"dimitrios gunopulos , themistoklis palpanas , dimitris papadopoulos , vana kalogeraki",sigmod record,2003
+1508,"et tu , xml ? the downfall of the relational empire ( abstract )",philip wadler,vldb,2001
+1513,incremental data structures and algorithms for dynamic query interfaces,"ben shneiderman , richard beigel , egemen tanin",sigmod record,1996
+1518,a consumer viewpoint on mediator languages - a proposal for a standard,"eric hughes , leonard j. seligman , arnon rosenthal , scott renner",sigmod record,1997
+1540,efficient index structures for string databases,"tamer kahveci , ambuj k. singh",vldb,2001
+1542,extraction of object-oriented structures from existing relational databases,"julia e. hodges , shekar ramanathan",sigmod record,1997
+1558,treasurer 's message,joachim hammer,sigmod record,2003
+1563,report on the web dynamics workshop at www 2002,"alexandra poulovassilis , mark levene",sigmod record,2002
+1569,data mining on an oltp system ( nearly ) for free,"erik riedel , gregory r. ganger , david nagle , christos faloutsos",sigmod conference,2000
+1590,the long-term preservation of authentic electronic records,luciana duranti,vldb,2001
+1591,keynote address,robert s. epstein,sigmod conference,1995
+1592,from vldb to vmldb ( very many large data bases ) : dealing with large-scale semantic heterogenity,stuart e. madnick,vldb,1995
+1593,telegraphcq : continuous dataflow processing,"mehul a. shah , wei hong , sirish chandrasekaran , samuel madden , sailesh krishnamurthy , amol deshpande , frederick reiss , owen cooper , joseph m. hellerstein , michael j. franklin",sigmod conference,2003
+1597,focused crawling using context graphs,"frans coetzee , steve lawrence , michelangelo diligenti , marco gori , c. lee giles",vldb,2000
+1613,transparent mid-tier database caching in sql server,"per-åke larson , jingren zhou , jonathan goldstein",sigmod conference,2003
+1618,data staging for on-demand broadcast,"stanley b. zdonik , demet aksoy , michael j. franklin",vldb,2001
+1641,analysis of n-dimensional quadtrees using the hausdorff fractal dimension,"christos faloutsos , volker gaede",vldb,1996
+1672,semantic video indexing : approach and issue,arun hampapur,sigmod record,1999
+1673,the denodo data integration platform,"anastasio molano , alberto pan , paula montoto , juan raposo , lucía ardao , manuel álvarez , vicente orjales , ángel viña , justo hidalgo",vldb,2002
+1683,navigating large-scale semi-structured data in business portals,"michel tourn , man abrol , john wang , grace zhang , jianchang mao , uma mahadevan , rajat mukherjee , prabhakar raghavan , neil latarche",vldb,2001
+1685,implementing lazy database updates for an object database system,"fabrizio ferrandina , thorsten meyer , roberto zicari",vldb,1994
+1688,acm-sigmod digital review,h. v. jagadish,sigmod record,2000
+1694,epsilon grid order : an algorithm for the similarity join on massive high-dimensional data,"florian krebs , christian böhm , bernhard braunmüller , hans-peter kriegel",sigmod conference,2001
+1696,overview of the stanford real-time information processor ( strip ),"brad adelberg , ben kao , hector garcia-molina",sigmod record,1996
+1699,data-driven understanding and refinement of schema mappings,"laura m. haas , ling-ling yan , ronald fagin , renée j. miller",sigmod conference,2001
+1701,e-services - guest editorial,"dimitrios georgakopoulos , ming-chien shan , fabio casati",vldb j.,2001
+1704,design principles for data-intensive web sites,"piero fraternali , stefano paraboschi , stefano ceri",sigmod record,1999
+1705,guest editor 's introduction,asuman dogac,sigmod record,1998
+1732,editor 's notes,jennifer widom,sigmod record,1996
+1739,xml document versioning,"carlo zaniolo , vassilis j. tsotras , shu-yao chien",sigmod record,2001
+1760,insite : a tool for interpreting users ? interaction with a web space,"farnoush banaei kashani , jabed faruque , adil faisal , cyrus shahabi",vldb,2000
+1764,user interfaces ; who cares ?,stefano spaccapietra,vldb,1994
+1768,metadata for integrating speech documents in a text retrieval system,"martin wechsler , ulrike glavitsch , peter schäuble",sigmod record,1994
+1778,disjunctive datalog,"heikki mannila , thomas eiter , georg gottlob",acm trans . database syst .,1997
+1787,from structured documents to novel query facilities,"sophie cluet , michel scholl , serge abiteboul , vassilis christophides",sigmod conference,1994
+1792,views in a large-scale xml repository,"vincent aguilera , dan vodislav , pierangelo veltri , sophie cluet , tova milo",vldb j.,2002
+1796,combining histograms and parametric curve fitting for feedback-driven query result-size estimation,"arnd christian könig , gerhard weikum",vldb,1999
+1803,gea : a toolkit for gene expression analysis,"jessica m. phan , raymond t. ng",sigmod conference,2002
+1807,querying shapes of histories,"mohamed zaït , giuseppe psaila , edward l. wimmers , rakesh agrawal",vldb,1995
+1810,hyper-programming in java,"graham n. c. kirby , ronald morrison , evangelos zirintsis",vldb,1999
+1812,querying heterogeneous information sources using source descriptions,"anand rajaraman , alon y. levy , joann j. ordille",vldb,1996
+1829,efficiently instantiating view-objects from remote relational databases,"gio wiederhold , byung suk lee",vldb j.,1994
+1838,oracle rac : architecture and performance,angelo pruscino,sigmod conference,2003
+1846,"panel : future directions of database research - the vldb broadening strategy , part 2",michael l. brodie,vldb,2000
+1847,a regression-based temporal pattern mining scheme for data streams,"philip s. yu , wei-guang teng , ming-syan chen",vldb,2003
+1858,the changing landscape of the software industry and its implications for india,umang gupta,vldb,1996
+1862,loading a cache with query results,"ioana ursu , donald kossmann , laura m. haas",vldb,1999
+1867,wireless client/server computing for personal information services and applications,"jin jing , tetsuya furukawa , ahmed k. elmagarmid",sigmod record,1995
+1881,using unknowns to prevent discovery of association rules,"chris clifton , yücel saygin , vassilios s. verykios",sigmod record,2001
+1885,spatial indexing of high-dimensional data based on relative approximation,"shunsuke uemura , masatoshi yoshikawa , yasushi sakurai , haruhiko kojima",vldb j.,2002
+1888,"title , announcement",?,vldb j.,1995
+1889,a quantitative analysis and performance study for similarity-search methods in high-dimensional spaces,"stephen blott , roger weber , hans-jörg schek",vldb,1998
+1890,"gnatdb : a small-footprint , secure database system",radek vingralek,vldb,2002
+1897,semantic b2b integration,christoph bussler,sigmod conference,2001
+1909,distributed top-k monitoring,"chris olston , brian babcock",sigmod conference,2003
+1910,adapting materialized views after redefinitions,"ashish gupta , inderpal singh mumick , kenneth a. ross",sigmod conference,1995
+1913,"title , foreword",?,vldb j.,1994
+1915,rights protection for relational data,"sunil prabhakar , radu sion , mikhail j. atallah",sigmod conference,2003
+1918,a practical and modular implementation of extended transaction models,"roger s. barga , calton pu",vldb,1995
+1919,internet traffic warehouse,"claudio petrone , marco mesiti , munir cochinwala , patrizia santa , chung-min chen , sunil samtani , marc pucci",sigmod conference,2000
+1925,"the active database central , er2000 , vldb 2000 , wise 2000 , books , acm dl",?,sigmod record,1999
+1926,dynamic maintenance of wavelet-based histograms,"yossi matias , jeffrey scott vitter , min wang",vldb,2000
+1933,is web-site management a database problem ?,"daniela florescu , dan suciu , alon y. levy",vldb,1998
+1934,the zero-delay data warehouse : mobilizing heterogeneous databases,eva kühn,vldb,2003
+1938,on wrapping query languages and efficient xml integration,"jérôme siméon , vassilis christophides , sophie cluet",sigmod conference,2000
+1948,a goal-driven auto-configuration tool for the distributed workflow management system mentor-lite,"german shegalov , gerhard weikum , wolfgang wonner , michael gillmann , jeanine weißenfels",sigmod conference,2000
+1952,rolex : relational on-line exchange with xml,"pradeep shenoy , xin dong , henry f. korth , philip bohannon , p. p. s. narayan , chengkai li , sumit ganguly",sigmod conference,2003
+1956,quest : a project on database mining,"ramakrishnan srikant , balakrishna r. iyer , christos faloutsos , arun n. swami , h. miranda , sakti p. ghosh , a. mahboob , maurice a. w. houtsma , michael j. carey , tomasz imielinski , rakesh agrawal",sigmod conference,1994
+1957,cache-conscious concurrency control of main-memory indexes on shared-memory multiprocessor systems,"sangyong hwang , kihong kim , sang kyun cha , keunjoo kwon",vldb,2001
+1977,environment information systems - guest editor 's foreword,oliver günther,sigmod record,1997
+1981,watchman : a data warehouse intelligent cache manager,"peter scheuermann , radek vingralek , junho shim",vldb,1996
+1993,aggregate-query processing in data warehousing environments,"venky harinarayan , dallan quass , ashish gupta",vldb,1995
+1998,eager aggregation and lazy aggregation,"weipeng p. yan , per-åke larson",vldb,1995
+2003,context-based prefetch for implementing objects on relations,"philip a. bernstein , david shutt , shankar pal",vldb,1999
+2006,on multi-resolution document transmission in mobile web,"stanley m. t. yau , antonio si , dennis mcleod , hong va leong",sigmod record,1999
+2012,real-time database - similarity semantics and resource scheduling,"tei-wei kuo , aloysius k. mok",sigmod record,1996
+2021,rapid bushy join-order optimization with cartesian products,"bennet vance , david maier",sigmod conference,1996
+2039,approximate xml joins,"h. v. jagadish , ting yu , divesh srivastava , sudipto guha , nick koudas",sigmod conference,2002
+2041,interview with michael stonebraker,marianne winslett,sigmod record,2003
+2061,what is the data warehousing problem ? ( are materialized views the answer ? ),"inderpal singh mumick , ashish gupta",vldb,1996
+2082,kweelt : more than just yet another framework to query xml !,arnaud sahuguet,sigmod conference,2001
+2086,xml and electronic commerce : enabling the network economy,"robert j. glushko , bart meltzer",sigmod record,1998
+2095,query caching and optimization in distributed mediator systems,"sibel adali , yannis papakonstantinou , k. selçuk candan , v. s. subrahmanian",sigmod conference,1996
+2111,information director 's message,alberto o. mendelzon,sigmod record,2000
+2117,"replication : db2 , oracle , or sybase ?",doug stacey,sigmod record,1995
+2119,garbage collection in object oriented databases using transactional cyclic reference counting,"s. sudarshan , prasan roy , abraham silberschatz , s. seshadri , srinivas ashwin",vldb,1997
+2129,promises and realities of active database systems,"eric simon , angelika kotz dittrich",vldb,1995
+2130,editor 's notes,ling liu,sigmod record,2003
+2141,the evolution of the web and implications for an incremental crawler,"junghoo cho , hector garcia-molina",vldb,2000
+2146,extracting large data sets using db2 parallel edition,sriram padmanabhan,vldb,1996
+2166,alias : an active learning led interactive deduplication system,"anuradha bhamidipaty , sunita sarawagi , chandra mouli , alok kirpal",vldb,2002
+2167,topological relations in the world of minimum bounding rectangles : a study with r-trees,"dimitris papadias , timos k. sellis , yannis theodoridis , max j. egenhofer",sigmod conference,1995
+2170,optimizing view queries in rolex to support navigable result trees,"pradeep shenoy , philip bohannon , p. p. s. narayan , henry f. korth , sumit ganguly",vldb,2002
+2186,fast algorithms for maintaining replica consistency in lazy master replicated databases,"eric simon , esther pacitti , pascale minet",vldb,1999
+2189,automating physical database design in a parallel database,"chun zhang , guy m. lohman , jun rao , nimrod megiddo",sigmod conference,2002
+2191,on the issue of valid time ( s ) in temporal databases,"themis panayiotopoulos , efstathios v. ioannidis , constantine d. spyropoulos , stavros kokkotos",sigmod record,1995
+2194,semantic and pedagogic interoperability mechanisms in the ariadne educational repository,"erik duval , eddy forte , kris cardinaels , koen hendrikx , florence haenni , maria wentland forte , florence simillion , ken warkentyne , e. vervaet",sigmod record,1999
+2199,histogram-based approximation of set-valued query-answers,"viswanath poosala , yannis e. ioannidis",vldb,1999
+2210,generalized search trees for database systems,"jeffrey f. naughton , avi pfeffer , joseph m. hellerstein",vldb,1995
+2215,fractal prefetching b ± trees : optimizing both cache and disk performance,"phillip b. gibbons , gary valentin , todd c. mowry , shimin chen",sigmod conference,2002
+2228,obk - an online high energy physics ' meta-data repository,"l. pedro , v. kotov , i. papadopoulos , l. mapelli , a. ribeiro , a. amorim , r. hart , m. nassiakou , h. wolters , n. parrington , d. liko , yu . ryabov , r. jones , i. alexandrov , l. lucio , i. soloviev , m. caprini , e. badescu , s. kolos , m. dobson , l. moneta , d. schweiger , m. barczyk , a. kazarov , d. burckhart-chromek , m. mineev , j. flammer",vldb,2002
+2241,energy and rate based mac protocol for wireless sensor networks,"ramaraju kalidindi , vijay kumar , rajgopal kannan , s. sitharama iyengar",sigmod record,2003
+2246,mining generalized association rules,"ramakrishnan srikant , rakesh agrawal",vldb,1995
+2265,an environmental sensor network to determine drinking water quality and security,"jeanne vanbriesen , paul s. fischbeck , christos faloutsos , anastassia ailamaki , mitchell j. small",sigmod record,2003
+2267,indexing large metric spaces for similarity search queries,"z. meral özsoyoglu , tolga bozkaya",acm trans . database syst .,1999
+2271,wavecluster : a multi-resolution clustering approach for very large spatial databases,"surojit chatterjee , gholamhosein sheikholeslami , aidong zhang",vldb,1998
+2281,near neighbor search in large metric spaces,sergey brin,vldb,1995
+2283,jumping on the nii bandwagon,xiaolei qian,sigmod record,1994
+2297,"o-o , what have they done to db2 ?","bennet vance , richard swagerman , michael j. carey , srinivasa narayanan , nelson mendonça mattos , donald d. chamberlin , doug doole , serge rielau",vldb,1999
+2298,two techniques for on-line index modification in shared nothing parallel databases,"shamkant b. navathe , kiran j. achyutuni , edward omiecinski",sigmod conference,1996
+2299,query engines for web-accessible xml data,"ramez elmasri , leonidas fegaras",vldb,2001
+2318,semantic assumptions and query evaluation in temporal databases,"sushil jajodia , xiaoyang sean wang , elisa bertino , claudio bettini",sigmod conference,1995
+2339,building notification services with microsoft sqlserver,praveen seshadri,sigmod conference,2003
+2345,the strip rule system for efficiently maintaining derived data,"hector garcia-molina , jennifer widom , brad adelberg",sigmod conference,1997
+2367,similarity query processing using disk arrays,"apostolos papadopoulos , yannis manolopoulos",sigmod conference,1998
+2373,demonstration : enabling scalable online personalization on the web,"debra e. vandermeer , krithi ramamritham , anindya datta , kaushik dutta , helen m. thomas",vldb,2000
+2376,towards an odmg-compliant visual object query language,"manoj chavda , peter t. wood",vldb,1997
+2377,timer-driven database triggers and alerters : semantics and a challenge,"eric n. hanson , lloyd noronha",sigmod record,1999
+2413,an overview of repository technology,"philip a. bernstein , umeshwar dayal",vldb,1994
+2450,mind your vocabulary : query mapping across heterogeneous information sources,"kevin chen-chuan chang , hector garcia-molina",sigmod conference,1999
+2452,temporal conditions and integrity constraints in active database systems,"ouri wolfson , a. prasad sistla",sigmod conference,1995
+2457,a framework for clustering evolving data streams,"philip s. yu , charu c. aggarwal , jiawei han , jianyong wang",vldb,2003
+2458,"title , foreword , special issue editorial",?,vldb j.,1994
+2465,memory management during run generation in external sorting,"goetz graefe , per-åke larson",sigmod conference,1998
+2474,on the semantics of `` now '' in databases,"christian s. jensen , tomás isakowitz , richard t. snodgrass , curtis e. dyreson , james clifford",acm trans . database syst .,1997
+2488,storing semistructured data with stored,"alin deutsch , mary f. fernandez , dan suciu",sigmod conference,1999
+2491,sigmod program review,richard t. snodgrass,sigmod record,2000
+2492,cache coherency in oracle parallel server,boris klots,vldb,1996
+2499,exploiting versions for handling updates in broadcast disks,"evaggelia pitoura , panos k. chrysanthis",vldb,1999
+2509,editor 's notes,michael j. franklin,sigmod record,1999
+2511,re-tree : an efficient index structure for regular expressions,"chee yong chan , minos n. garofalakis , rajeev rastogi",vldb j.,2003
+2523,integrating the ub-tree into a database system kernel,"robert fenk , rudolf bayer , volker markl , martin zirkel , frank ramsak , klaus elhardt",vldb,2000
+2529,transaction chopping : algorithms and performance studies,"dennis shasha , eric simon , patrick valduriez , françois llirbat",acm trans . database syst .,1995
+2538,coma - a system for flexible combination of schema matching approaches,"erhard rahm , hong hai do",vldb,2002
+2542,parallelising oodbms traversals : a performance evaluation,"jeffrey f. naughton , john c. shafer , david j. dewitt , shivakumar venkataraman",vldb j.,1996
+2547,applications of the java programming language to database management,"v. wiktor marek , bradley f. burton",sigmod record,1998
+2548,editor 's notes,jennifer widom,sigmod record,1996
+2551,a product specification database for visual prototyping,"kouichi yasutake , kazutoshi sumiya , yoshihiko imai , hirohiko tanaka , norio sanada",vldb,1995
+2554,implementation and analysis of a parallel collection query language,dan suciu,vldb,1996
+2556,a close look at the ifo data model,magdy s. hanna,sigmod record,1995
+2559,privacy-enhanced data management for next-generation e-commerce,"irini fundulaki , daniel f. lieuwen , bharat kumar , richard hull , chris clifton , arnaud sahuguet",vldb,2003
+2563,qcluster : relevance feedback using adaptive clustering for content-based image retrieval,"deok-hwan kim , chin-wan chung",sigmod conference,2003
+2574,report from the nsf workshop on workflow and process automation in information systems,"dimitrios georgakopoulos , stef joosten , marek rusinkiewicz , alexander l. wolf , walt scacchi , amit p. sheth , jack c. wileden",sigmod record,1996
+2584,lachesis : robust database storage management based on device-specific performance characteristics,"anastassia ailamaki , jiri schindler , gregory r. ganger",vldb,2003
+2591,xmdvtool : visual interactive data exploration and trend discovery of high-dimensional data sets,"elke a. rundensteiner , punit r. doshi , jing yang , matthew o. ward",sigmod conference,2002
